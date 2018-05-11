@@ -1,0 +1,5 @@
+  908  gcc -Wall -O0 randomshizz.c -lm
+  910  gcc -Wall -O1 randomshizz.c -lm
+  912  gcc -Wall -O2 randomshizz.c -lm
+  916  gcc -Wall -O3 -funroll-loops randomshizz.c -lm
+

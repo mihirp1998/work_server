@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<employee_details>
+<emp id=2001A7PS001U>
+<name>santhosh</name>
+<dob>12/01/2001</dob>
+<cgpa>7.65</cgpa>
+</emp>
+<emp id=2001A7PS002U>
+<name>angel</name>
+<dob>12/02/2002</dob>
+<cgpa>9.75</cgpa>
+</emp>
+<emp id=2003A7PS198U>
+<name>siddhaling</name>
+<dob>12/03/2003</dob>
+<cgpa>7.50</cgpa>
+</emp>
+</employee_details>
